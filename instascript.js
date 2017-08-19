@@ -28,14 +28,14 @@ window.instasScript = window.instasScript || {};
    *
    * @type {String}
    */
-  app.modalImageSelector = '._n3cp9._d20no ._jjzlb img'
+  app.modalImageSelector = '._e3il2._gxii9 ._4rbun img'
 
   /**
    * Full-size instagram video after the modal opens
    *
    * @type {String}
    */
-  app.modalVideoSelector = '._n3cp9._d20no ._2tomm video'
+  app.modalVideoSelector = '._n3cp9._d20no ._4rbun video'
 
   /**
    * "Load More" button selector

@@ -42,7 +42,7 @@ window.instasScript = window.instasScript || {};
    *
    * @type {String}
    */
-  app.loadMoreSelector = '._oidfu'
+  app.loadMoreSelector = '._1cr2e._epyes'
 
   /**
    * Closes the modal

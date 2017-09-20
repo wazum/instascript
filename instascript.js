@@ -49,7 +49,7 @@ window.instasScript = window.instasScript || {};
    *
    * @type {String}
    */
-  app.closeButtonSelector = '._3eajp'
+  app.closeButtonSelector = '._dcj9f'
 
   /**
    * Amount of time to allow the image to download. May need to increase this value on a slow connection.

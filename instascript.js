@@ -21,7 +21,7 @@ window.instasScript = window.instasScript || {};
    *
    * @type {String}
    */
-  app.instaImageSelector = '._2di5p'
+  app.instaImageSelector = '._si7dy'
 
   /**
    * Full-size instagram image after the modal opens - http://b.ustin.co/18xhe

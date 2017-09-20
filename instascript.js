@@ -35,7 +35,7 @@ window.instasScript = window.instasScript || {};
    *
    * @type {String}
    */
-  app.modalVideoSelector = '._2xkvu._msp39 ._qzesf video'
+  app.modalVideoSelector = '._2xkvu._msp39 ._qzesf video._l6uaz'
 
   /**
    * "Load More" button selector

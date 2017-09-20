@@ -28,7 +28,7 @@ window.instasScript = window.instasScript || {};
    *
    * @type {String}
    */
-  app.modalImageSelector = '._e3il2._gxii9 ._4rbun img'
+  app.modalImageSelector = '._4rbun img'
 
   /**
    * Full-size instagram video after the modal opens

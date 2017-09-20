@@ -139,7 +139,7 @@ window.instasScript = window.instasScript || {};
       $media = $(app.modalVideoSelector)
     }
 
-    if ($media.hasClass('instadone')) {
+    if (!$media.hasClass('instadone')) {
       return app.processNext()
     }
 

@@ -42,7 +42,7 @@ window.instasScript = window.instasScript || {};
    *
    * @type {String}
    */
-  app.loadMoreSelector = '._1cr2e._epyes'
+  app.loadMoreSelector = '._4emnV'
 
   /**
    * Closes the modal
@@ -122,8 +122,8 @@ window.instasScript = window.instasScript || {};
       return alert('Ok, it\'s stopped! `instasScript.start()` in your JS console to continue.')
     }
 
-    app.$toClick = $(app.instaImageSelector + ':not(.instadone )').first()
-    if (!app.$toClick.length) {
+    app.$toClick = $('._4emnV').first()
+    if (app.$toClick.length) {
       return app.triggerMore()
     }
 
